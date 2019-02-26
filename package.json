@@ -1,0 +1,25 @@
+{
+  "name": "learningjs",
+  "version": "1.0.0",
+  "description": "= Learning Javascript(small Rhinoceros) 3rd Edition\r == Chapter 2 : Javascript Development tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oinochoe/learningJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oinochoe/learningJs/issues"
+  },
+  "homepage": "https://github.com/oinochoe/learningJs#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
