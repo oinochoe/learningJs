@@ -11,3 +11,7 @@ node_modules
 # 임시 파일
 *.tmp
 *~
+
+# es6만 추적하기 위한 코드(자동생성은 필요없다.)
+dist
+public/dist
